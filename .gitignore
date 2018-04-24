@@ -1,4 +1,5 @@
 .vscode
+pip-selfcheck.json
 
 # Virtualenv
 .Python
